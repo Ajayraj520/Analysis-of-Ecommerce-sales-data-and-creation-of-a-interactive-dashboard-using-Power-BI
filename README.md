@@ -9,4 +9,4 @@ This is an end-to-end Power BI project in which I had created a interactive dash
 <h1>Project Highlights</h1>
 
 
-U+2022 Created interactive dashboard to track and analyze online sales data.
+&bull Created interactive dashboard to track and analyze online sales data.
