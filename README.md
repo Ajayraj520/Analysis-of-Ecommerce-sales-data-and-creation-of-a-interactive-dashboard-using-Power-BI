@@ -10,3 +10,6 @@ This is an end-to-end Power BI project in which I had created a interactive dash
 
 
 - Created interactive dashboard to track and analyze online sales data.
+- Used complex parameters to drill down in worksheet and customization using filters and slicers.
+- Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
+- Used different types of customized visualizations (Bar chart, Pie chart, Donut Chart, Clustured Bar chart, Scatter chart, Line chart, Area chart, map, slices, etc.)
