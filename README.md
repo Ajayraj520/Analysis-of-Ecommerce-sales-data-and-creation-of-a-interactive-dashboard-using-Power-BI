@@ -7,3 +7,6 @@ This is an end-to-end Power BI project in which I had created a interactive dash
 ![image](https://github.com/Ajayraj520/Analysis-of-Ecommerce-sales-data-and-creation-of-a-interactive-dashboard-using-Power-BI/assets/150412227/d7d4c721-e1a9-44ba-8f8b-a07fe6fc84b9)
 
 <h1>Project Highlights</h1>
+
+
+U+2022 Created interactive dashboard to track and analyze online sales data.
